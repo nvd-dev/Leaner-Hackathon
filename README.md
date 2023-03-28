@@ -1,2 +1,2 @@
-# Leaner-Hackathon
- Leaner Hackathon - Mar 2023
+# Leaner-A.I.-Hackathon
+ Leaner AI Hackathon - Mar 2023
